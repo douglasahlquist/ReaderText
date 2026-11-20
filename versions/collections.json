@@ -1,0 +1,883 @@
+{
+  "collections": [
+    {
+      "id": "bible",
+      "name": "Bible",
+      "levels": [
+        "book",
+        "chapter",
+        "verse"
+      ],
+      "reference": "kjv",
+      "books": [
+        {
+          "code": "GEN",
+          "slug": "genesis",
+          "name": "Genesis",
+          "testament": "OT"
+        },
+        {
+          "code": "EXO",
+          "slug": "exodus",
+          "name": "Exodus",
+          "testament": "OT"
+        },
+        {
+          "code": "LEV",
+          "slug": "leviticus",
+          "name": "Leviticus",
+          "testament": "OT"
+        },
+        {
+          "code": "NUM",
+          "slug": "numbers",
+          "name": "Numbers",
+          "testament": "OT"
+        },
+        {
+          "code": "DEU",
+          "slug": "deuteronomy",
+          "name": "Deuteronomy",
+          "testament": "OT"
+        },
+        {
+          "code": "JOS",
+          "slug": "joshua",
+          "name": "Joshua",
+          "testament": "OT"
+        },
+        {
+          "code": "JDG",
+          "slug": "judges",
+          "name": "Judges",
+          "testament": "OT"
+        },
+        {
+          "code": "RUT",
+          "slug": "ruth",
+          "name": "Ruth",
+          "testament": "OT"
+        },
+        {
+          "code": "1SA",
+          "slug": "1-samuel",
+          "name": "1 Samuel",
+          "testament": "OT"
+        },
+        {
+          "code": "2SA",
+          "slug": "2-samuel",
+          "name": "2 Samuel",
+          "testament": "OT"
+        },
+        {
+          "code": "1KI",
+          "slug": "1-kings",
+          "name": "1 Kings",
+          "testament": "OT"
+        },
+        {
+          "code": "2KI",
+          "slug": "2-kings",
+          "name": "2 Kings",
+          "testament": "OT"
+        },
+        {
+          "code": "1CH",
+          "slug": "1-chronicles",
+          "name": "1 Chronicles",
+          "testament": "OT"
+        },
+        {
+          "code": "2CH",
+          "slug": "2-chronicles",
+          "name": "2 Chronicles",
+          "testament": "OT"
+        },
+        {
+          "code": "EZR",
+          "slug": "ezra",
+          "name": "Ezra",
+          "testament": "OT"
+        },
+        {
+          "code": "NEH",
+          "slug": "nehemiah",
+          "name": "Nehemiah",
+          "testament": "OT"
+        },
+        {
+          "code": "EST",
+          "slug": "esther",
+          "name": "Esther",
+          "testament": "OT"
+        },
+        {
+          "code": "JOB",
+          "slug": "job",
+          "name": "Job",
+          "testament": "OT"
+        },
+        {
+          "code": "PSA",
+          "slug": "psalms",
+          "name": "Psalms",
+          "testament": "OT"
+        },
+        {
+          "code": "PRO",
+          "slug": "proverbs",
+          "name": "Proverbs",
+          "testament": "OT"
+        },
+        {
+          "code": "ECC",
+          "slug": "ecclesiastes",
+          "name": "Ecclesiastes",
+          "testament": "OT"
+        },
+        {
+          "code": "SNG",
+          "slug": "song-of-songs",
+          "name": "Song of Songs",
+          "testament": "OT"
+        },
+        {
+          "code": "ISA",
+          "slug": "isaiah",
+          "name": "Isaiah",
+          "testament": "OT"
+        },
+        {
+          "code": "JER",
+          "slug": "jeremiah",
+          "name": "Jeremiah",
+          "testament": "OT"
+        },
+        {
+          "code": "LAM",
+          "slug": "lamentations",
+          "name": "Lamentations",
+          "testament": "OT"
+        },
+        {
+          "code": "EZK",
+          "slug": "ezekiel",
+          "name": "Ezekiel",
+          "testament": "OT"
+        },
+        {
+          "code": "DAN",
+          "slug": "daniel",
+          "name": "Daniel",
+          "testament": "OT"
+        },
+        {
+          "code": "HOS",
+          "slug": "hosea",
+          "name": "Hosea",
+          "testament": "OT"
+        },
+        {
+          "code": "JOL",
+          "slug": "joel",
+          "name": "Joel",
+          "testament": "OT"
+        },
+        {
+          "code": "AMO",
+          "slug": "amos",
+          "name": "Amos",
+          "testament": "OT"
+        },
+        {
+          "code": "OBA",
+          "slug": "obadiah",
+          "name": "Obadiah",
+          "testament": "OT"
+        },
+        {
+          "code": "JON",
+          "slug": "jonah",
+          "name": "Jonah",
+          "testament": "OT"
+        },
+        {
+          "code": "MIC",
+          "slug": "micah",
+          "name": "Micah",
+          "testament": "OT"
+        },
+        {
+          "code": "NAM",
+          "slug": "nahum",
+          "name": "Nahum",
+          "testament": "OT"
+        },
+        {
+          "code": "HAB",
+          "slug": "habakkuk",
+          "name": "Habakkuk",
+          "testament": "OT"
+        },
+        {
+          "code": "ZEP",
+          "slug": "zephaniah",
+          "name": "Zephaniah",
+          "testament": "OT"
+        },
+        {
+          "code": "HAG",
+          "slug": "haggai",
+          "name": "Haggai",
+          "testament": "OT"
+        },
+        {
+          "code": "ZEC",
+          "slug": "zechariah",
+          "name": "Zechariah",
+          "testament": "OT"
+        },
+        {
+          "code": "MAL",
+          "slug": "malachi",
+          "name": "Malachi",
+          "testament": "OT"
+        },
+        {
+          "code": "MAT",
+          "slug": "matthew",
+          "name": "Matthew",
+          "testament": "NT"
+        },
+        {
+          "code": "MRK",
+          "slug": "mark",
+          "name": "Mark",
+          "testament": "NT"
+        },
+        {
+          "code": "LUK",
+          "slug": "luke",
+          "name": "Luke",
+          "testament": "NT"
+        },
+        {
+          "code": "JHN",
+          "slug": "john",
+          "name": "John",
+          "testament": "NT"
+        },
+        {
+          "code": "ACT",
+          "slug": "acts",
+          "name": "Acts",
+          "testament": "NT"
+        },
+        {
+          "code": "ROM",
+          "slug": "romans",
+          "name": "Romans",
+          "testament": "NT"
+        },
+        {
+          "code": "1CO",
+          "slug": "1-corinthians",
+          "name": "1 Corinthians",
+          "testament": "NT"
+        },
+        {
+          "code": "2CO",
+          "slug": "2-corinthians",
+          "name": "2 Corinthians",
+          "testament": "NT"
+        },
+        {
+          "code": "GAL",
+          "slug": "galatians",
+          "name": "Galatians",
+          "testament": "NT"
+        },
+        {
+          "code": "EPH",
+          "slug": "ephesians",
+          "name": "Ephesians",
+          "testament": "NT"
+        },
+        {
+          "code": "PHP",
+          "slug": "philippians",
+          "name": "Philippians",
+          "testament": "NT"
+        },
+        {
+          "code": "COL",
+          "slug": "colossians",
+          "name": "Colossians",
+          "testament": "NT"
+        },
+        {
+          "code": "1TH",
+          "slug": "1-thessalonians",
+          "name": "1 Thessalonians",
+          "testament": "NT"
+        },
+        {
+          "code": "2TH",
+          "slug": "2-thessalonians",
+          "name": "2 Thessalonians",
+          "testament": "NT"
+        },
+        {
+          "code": "1TI",
+          "slug": "1-timothy",
+          "name": "1 Timothy",
+          "testament": "NT"
+        },
+        {
+          "code": "2TI",
+          "slug": "2-timothy",
+          "name": "2 Timothy",
+          "testament": "NT"
+        },
+        {
+          "code": "TIT",
+          "slug": "titus",
+          "name": "Titus",
+          "testament": "NT"
+        },
+        {
+          "code": "PHM",
+          "slug": "philemon",
+          "name": "Philemon",
+          "testament": "NT"
+        },
+        {
+          "code": "HEB",
+          "slug": "hebrews",
+          "name": "Hebrews",
+          "testament": "NT"
+        },
+        {
+          "code": "JAS",
+          "slug": "james",
+          "name": "James",
+          "testament": "NT"
+        },
+        {
+          "code": "1PE",
+          "slug": "1-peter",
+          "name": "1 Peter",
+          "testament": "NT"
+        },
+        {
+          "code": "2PE",
+          "slug": "2-peter",
+          "name": "2 Peter",
+          "testament": "NT"
+        },
+        {
+          "code": "1JN",
+          "slug": "1-john",
+          "name": "1 John",
+          "testament": "NT"
+        },
+        {
+          "code": "2JN",
+          "slug": "2-john",
+          "name": "2 John",
+          "testament": "NT"
+        },
+        {
+          "code": "3JN",
+          "slug": "3-john",
+          "name": "3 John",
+          "testament": "NT"
+        },
+        {
+          "code": "JUD",
+          "slug": "jude",
+          "name": "Jude",
+          "testament": "NT"
+        },
+        {
+          "code": "REV",
+          "slug": "revelation",
+          "name": "Revelation",
+          "testament": "NT"
+        }
+      ]
+    },
+    {
+      "id": "quran",
+      "name": "Qur'an",
+      "levels": [
+        "surah",
+        "ayah"
+      ],
+      "reference": "kufan",
+      "books": [
+        {
+          "code": "001"
+        },
+        {
+          "code": "002"
+        },
+        {
+          "code": "003"
+        },
+        {
+          "code": "004"
+        },
+        {
+          "code": "005"
+        },
+        {
+          "code": "006"
+        },
+        {
+          "code": "007"
+        },
+        {
+          "code": "008"
+        },
+        {
+          "code": "009"
+        },
+        {
+          "code": "010"
+        },
+        {
+          "code": "011"
+        },
+        {
+          "code": "012"
+        },
+        {
+          "code": "013"
+        },
+        {
+          "code": "014"
+        },
+        {
+          "code": "015"
+        },
+        {
+          "code": "016"
+        },
+        {
+          "code": "017"
+        },
+        {
+          "code": "018"
+        },
+        {
+          "code": "019"
+        },
+        {
+          "code": "020"
+        },
+        {
+          "code": "021"
+        },
+        {
+          "code": "022"
+        },
+        {
+          "code": "023"
+        },
+        {
+          "code": "024"
+        },
+        {
+          "code": "025"
+        },
+        {
+          "code": "026"
+        },
+        {
+          "code": "027"
+        },
+        {
+          "code": "028"
+        },
+        {
+          "code": "029"
+        },
+        {
+          "code": "030"
+        },
+        {
+          "code": "031"
+        },
+        {
+          "code": "032"
+        },
+        {
+          "code": "033"
+        },
+        {
+          "code": "034"
+        },
+        {
+          "code": "035"
+        },
+        {
+          "code": "036"
+        },
+        {
+          "code": "037"
+        },
+        {
+          "code": "038"
+        },
+        {
+          "code": "039"
+        },
+        {
+          "code": "040"
+        },
+        {
+          "code": "041"
+        },
+        {
+          "code": "042"
+        },
+        {
+          "code": "043"
+        },
+        {
+          "code": "044"
+        },
+        {
+          "code": "045"
+        },
+        {
+          "code": "046"
+        },
+        {
+          "code": "047"
+        },
+        {
+          "code": "048"
+        },
+        {
+          "code": "049"
+        },
+        {
+          "code": "050"
+        },
+        {
+          "code": "051"
+        },
+        {
+          "code": "052"
+        },
+        {
+          "code": "053"
+        },
+        {
+          "code": "054"
+        },
+        {
+          "code": "055"
+        },
+        {
+          "code": "056"
+        },
+        {
+          "code": "057"
+        },
+        {
+          "code": "058"
+        },
+        {
+          "code": "059"
+        },
+        {
+          "code": "060"
+        },
+        {
+          "code": "061"
+        },
+        {
+          "code": "062"
+        },
+        {
+          "code": "063"
+        },
+        {
+          "code": "064"
+        },
+        {
+          "code": "065"
+        },
+        {
+          "code": "066"
+        },
+        {
+          "code": "067"
+        },
+        {
+          "code": "068"
+        },
+        {
+          "code": "069"
+        },
+        {
+          "code": "070"
+        },
+        {
+          "code": "071"
+        },
+        {
+          "code": "072"
+        },
+        {
+          "code": "073"
+        },
+        {
+          "code": "074"
+        },
+        {
+          "code": "075"
+        },
+        {
+          "code": "076"
+        },
+        {
+          "code": "077"
+        },
+        {
+          "code": "078"
+        },
+        {
+          "code": "079"
+        },
+        {
+          "code": "080"
+        },
+        {
+          "code": "081"
+        },
+        {
+          "code": "082"
+        },
+        {
+          "code": "083"
+        },
+        {
+          "code": "084"
+        },
+        {
+          "code": "085"
+        },
+        {
+          "code": "086"
+        },
+        {
+          "code": "087"
+        },
+        {
+          "code": "088"
+        },
+        {
+          "code": "089"
+        },
+        {
+          "code": "090"
+        },
+        {
+          "code": "091"
+        },
+        {
+          "code": "092"
+        },
+        {
+          "code": "093"
+        },
+        {
+          "code": "094"
+        },
+        {
+          "code": "095"
+        },
+        {
+          "code": "096"
+        },
+        {
+          "code": "097"
+        },
+        {
+          "code": "098"
+        },
+        {
+          "code": "099"
+        },
+        {
+          "code": "100"
+        },
+        {
+          "code": "101"
+        },
+        {
+          "code": "102"
+        },
+        {
+          "code": "103"
+        },
+        {
+          "code": "104"
+        },
+        {
+          "code": "105"
+        },
+        {
+          "code": "106"
+        },
+        {
+          "code": "107"
+        },
+        {
+          "code": "108"
+        },
+        {
+          "code": "109"
+        },
+        {
+          "code": "110"
+        },
+        {
+          "code": "111"
+        },
+        {
+          "code": "112"
+        },
+        {
+          "code": "113"
+        },
+        {
+          "code": "114"
+        }
+      ]
+    },
+    {
+      "id": "hadith",
+      "name": "Hadith",
+      "levels": [
+        "book",
+        "section",
+        "number"
+      ],
+      "reference": null,
+      "books": []
+    },
+    {
+      "id": "documents",
+      "name": "Other Documents",
+      "levels": [
+        "page"
+      ],
+      "reference": null,
+      "books": []
+    }
+  ],
+  "versions": [
+    {
+      "collection": "bible",
+      "key": "en-kjv"
+    },
+    {
+      "collection": "bible",
+      "key": "en-web"
+    },
+    {
+      "collection": "bible",
+      "key": "en-bbe"
+    },
+    {
+      "collection": "bible",
+      "key": "zh-cuv-s"
+    },
+    {
+      "collection": "bible",
+      "key": "zh-cuv-t"
+    },
+    {
+      "collection": "bible",
+      "key": "hbo-wlc"
+    },
+    {
+      "collection": "bible",
+      "key": "grc-sblgnt"
+    },
+    {
+      "collection": "bible",
+      "key": "grc-tr"
+    },
+    {
+      "collection": "bible",
+      "key": "ko-krv"
+    },
+    {
+      "collection": "bible",
+      "key": "th-kjv"
+    },
+    {
+      "collection": "bible",
+      "key": "vi-1934"
+    },
+    {
+      "collection": "bible",
+      "key": "fr-martin"
+    },
+    {
+      "collection": "bible",
+      "key": "de-luther1912"
+    },
+    {
+      "collection": "bible",
+      "key": "nsk-naskapi"
+    },
+    {
+      "collection": "quran",
+      "key": "ar-hafs"
+    },
+    {
+      "collection": "quran",
+      "key": "ar-latn-hafs"
+    },
+    {
+      "collection": "quran",
+      "key": "ar-shubah"
+    },
+    {
+      "collection": "quran",
+      "key": "ar-warsh"
+    },
+    {
+      "collection": "quran",
+      "key": "ar-qalun"
+    },
+    {
+      "collection": "quran",
+      "key": "ar-duri"
+    },
+    {
+      "collection": "quran",
+      "key": "ar-susi"
+    },
+    {
+      "collection": "quran",
+      "key": "ar-bazzi"
+    },
+    {
+      "collection": "quran",
+      "key": "ar-qunbul"
+    },
+    {
+      "collection": "quran",
+      "key": "en-pickthall"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "key": "en-web",
+  "collection": "bible",
+  "name": "World English Bible (WEB)",
+  "short": "WEB",
+  "language": "en",
+  "script": "Latn",
+  "kind": "translation",
+  "license": "Public domain",
+  "numbering": "kjv",
+  "levels": [
+    "book",
+    "chapter",
+    "verse"
+  ],
+  "columns": [
+    "verse",
+    "text"
+  ],
+  "source": "web",
+  "legacyID": "web",
+  "verses": 5307,
+  "coverage": {
+    "books": {
+      "GEN": "all",
+      "PSA": "all",
+      "JHN": "all",
+      "ROM": "all"
+    },
+    "omitted": [
+      "ROM.16.26",
+      "ROM.16.27"
+    ],
+    "additional": [
+      "ROM.14.24",
+      "ROM.14.25",
+      "ROM.14.26"
+    ],
+    "notes": {
+      "ROM.16.26": "Placed after 14:23 (as 14:25–26) in this edition",
+      "ROM.16.27": "Placed after 14:23 in this edition"
+    },
+    "additionalNotes": {
+      "ROM.14.24": "Beyond the KJV numbering",
+      "ROM.14.25": "Beyond the KJV numbering",
+      "ROM.14.26": "Beyond the KJV numbering"
+    }
+  }
+}

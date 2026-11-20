@@ -1,0 +1,40 @@
+{
+  "app": "ChineseReader",
+  "required": [
+    "en-kjv",
+    "zh-cuv-s",
+    "zh-cuv-t"
+  ],
+  "_about": "required: always in the app and its default view; default: in the default view; offered: listed for adding; hidden: never listed, added or searched",
+  "default": [
+    "en-kjv",
+    "zh-cuv-s",
+    "zh-cuv-t"
+  ],
+  "offered": [
+    "en-web",
+    "en-bbe",
+    "hbo-wlc",
+    "grc-sblgnt",
+    "grc-tr",
+    "ko-krv",
+    "th-kjv",
+    "vi-1934",
+    "fr-martin",
+    "de-luther1912",
+    "nsk-naskapi",
+    "ar-hafs",
+    "ar-latn-hafs",
+    "ar-shubah",
+    "ar-warsh",
+    "ar-qalun",
+    "ar-duri",
+    "ar-susi",
+    "ar-bazzi",
+    "ar-qunbul",
+    "en-pickthall"
+  ],
+  "hidden": [
+    "en-sahih"
+  ]
+}

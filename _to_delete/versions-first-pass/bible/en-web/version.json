@@ -1,0 +1,32 @@
+{
+  "key": "en-web",
+  "collection": "bible",
+  "name": "World English Bible (WEB)",
+  "short": "WEB",
+  "language": "en",
+  "script": "Latn",
+  "kind": "translation",
+  "license": "Public domain",
+  "numbering": "kjv",
+  "levels": [
+    "book",
+    "chapter",
+    "verse"
+  ],
+  "columns": [
+    "verse",
+    "text"
+  ],
+  "legacyID": "web",
+  "verses": 3391,
+  "coverage": {
+    "books": {
+      "GEN": "1",
+      "PSA": "all",
+      "JHN": "all",
+      "ROM": "12"
+    },
+    "omitted": [],
+    "additional": []
+  }
+}

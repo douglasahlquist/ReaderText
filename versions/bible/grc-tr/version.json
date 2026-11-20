@@ -1,0 +1,31 @@
+{
+  "key": "grc-tr",
+  "collection": "bible",
+  "name": "Textus Receptus (1550/1894)",
+  "short": "TR",
+  "language": "grc",
+  "script": "Grek",
+  "kind": "original",
+  "license": "Public domain",
+  "numbering": "kjv",
+  "levels": [
+    "book",
+    "chapter",
+    "verse"
+  ],
+  "columns": [
+    "verse",
+    "text"
+  ],
+  "source": "tr",
+  "legacyID": "original",
+  "verses": 1312,
+  "coverage": {
+    "books": {
+      "JHN": "all",
+      "ROM": "all"
+    },
+    "omitted": [],
+    "additional": []
+  }
+}

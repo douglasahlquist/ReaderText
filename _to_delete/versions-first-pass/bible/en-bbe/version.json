@@ -1,0 +1,31 @@
+{
+  "key": "en-bbe",
+  "collection": "bible",
+  "name": "Bible in Basic English (BBE, 1949/1964)",
+  "short": "BBE",
+  "language": "en",
+  "script": "Latn",
+  "kind": "translation",
+  "license": "Public domain",
+  "numbering": "kjv",
+  "levels": [
+    "book",
+    "chapter",
+    "verse"
+  ],
+  "columns": [
+    "verse",
+    "text"
+  ],
+  "legacyID": "bbe",
+  "verses": 58,
+  "coverage": {
+    "books": {
+      "GEN": "1",
+      "PSA": "23",
+      "ROM": "12"
+    },
+    "omitted": [],
+    "additional": []
+  }
+}

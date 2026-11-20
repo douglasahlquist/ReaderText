@@ -1,0 +1,61 @@
+{
+  "key": "nsk-naskapi",
+  "collection": "bible",
+  "name": "Naskapi Bible (Naskapi Development Corporation)",
+  "short": "Naskapi",
+  "language": "nsk",
+  "script": "Cans",
+  "kind": "translation",
+  "license": "© Naskapi Development Corporation — permission required",
+  "numbering": "kjv",
+  "levels": [
+    "book",
+    "chapter",
+    "verse"
+  ],
+  "columns": [
+    "verse",
+    "text"
+  ],
+  "legacyID": "naskapi",
+  "verses": 13160,
+  "coverage": {
+    "books": {
+      "GEN": "all",
+      "EXO": "all",
+      "PSA": "all",
+      "MAT": "all",
+      "MRK": "all",
+      "LUK": "all",
+      "JHN": "all",
+      "ACT": "all",
+      "ROM": "all",
+      "1CO": "all",
+      "2CO": "all",
+      "GAL": "all",
+      "EPH": "all",
+      "PHP": "all",
+      "COL": "all",
+      "1TH": "all",
+      "2TH": "all",
+      "1TI": "all",
+      "2TI": "all",
+      "TIT": "all",
+      "PHM": "all",
+      "HEB": "all",
+      "JAS": "all",
+      "1PE": "all",
+      "2PE": "all",
+      "1JN": "all",
+      "2JN": "all",
+      "3JN": "all",
+      "JUD": "all",
+      "REV": "all"
+    },
+    "omitted": [],
+    "additional": [
+      "3JN.1.15"
+    ]
+  },
+  "access": "permission"
+}

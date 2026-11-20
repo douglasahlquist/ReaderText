@@ -1,0 +1,165 @@
+{
+  "versions": [
+    {
+      "id": "bbe",
+      "collection": "bible",
+      "file": "bbe.tsv",
+      "verses": 58,
+      "bytes": 7887
+    },
+    {
+      "id": "kjv",
+      "collection": "bible",
+      "file": "kjv.tsv",
+      "verses": 31102,
+      "bytes": 4569497
+    },
+    {
+      "id": "krv",
+      "collection": "bible",
+      "file": "krv.tsv",
+      "verses": 31084,
+      "bytes": 4850121
+    },
+    {
+      "id": "luther1912",
+      "collection": "bible",
+      "file": "luther1912.tsv",
+      "verses": 31102,
+      "bytes": 4510794
+    },
+    {
+      "id": "martin",
+      "collection": "bible",
+      "file": "martin.tsv",
+      "verses": 31071,
+      "bytes": 4933936
+    },
+    {
+      "id": "naskapi",
+      "collection": "bible",
+      "file": "naskapi.tsv",
+      "verses": 13160,
+      "bytes": 4069461
+    },
+    {
+      "id": "original",
+      "collection": "bible",
+      "file": "original.tsv",
+      "verses": 31072,
+      "bytes": 6961114
+    },
+    {
+      "id": "pickthall",
+      "collection": "quran",
+      "file": "pickthall.tsv",
+      "verses": 6236,
+      "bytes": 927159
+    },
+    {
+      "id": "pinyin",
+      "collection": "bible",
+      "file": "pinyin.tsv",
+      "verses": 31103,
+      "bytes": 5069207
+    },
+    {
+      "id": "quran-arabic",
+      "collection": "quran",
+      "file": "quran-arabic.tsv",
+      "verses": 6236,
+      "bytes": 1449638
+    },
+    {
+      "id": "quran-riwaya-bazzi",
+      "collection": "quran",
+      "file": "quran-riwaya-bazzi.tsv",
+      "verses": 6156,
+      "bytes": 1471453
+    },
+    {
+      "id": "quran-riwaya-duri",
+      "collection": "quran",
+      "file": "quran-riwaya-duri.tsv",
+      "verses": 6163,
+      "bytes": 1510441
+    },
+    {
+      "id": "quran-riwaya-qalun",
+      "collection": "quran",
+      "file": "quran-riwaya-qalun.tsv",
+      "verses": 6156,
+      "bytes": 1508481
+    },
+    {
+      "id": "quran-riwaya-qunbul",
+      "collection": "quran",
+      "file": "quran-riwaya-qunbul.tsv",
+      "verses": 6156,
+      "bytes": 1471688
+    },
+    {
+      "id": "quran-riwaya-shubah",
+      "collection": "quran",
+      "file": "quran-riwaya-shubah.tsv",
+      "verses": 6236,
+      "bytes": 1432209
+    },
+    {
+      "id": "quran-riwaya-susi",
+      "collection": "quran",
+      "file": "quran-riwaya-susi.tsv",
+      "verses": 6163,
+      "bytes": 1501467
+    },
+    {
+      "id": "quran-riwaya-warsh",
+      "collection": "quran",
+      "file": "quran-riwaya-warsh.tsv",
+      "verses": 6156,
+      "bytes": 1513298
+    },
+    {
+      "id": "quran-romanization",
+      "collection": "quran",
+      "file": "quran-romanization.tsv",
+      "verses": 6236,
+      "bytes": 788008
+    },
+    {
+      "id": "simplified",
+      "collection": "bible",
+      "file": "simplified.tsv",
+      "verses": 31103,
+      "bytes": 3610596
+    },
+    {
+      "id": "thkjv",
+      "collection": "bible",
+      "file": "thkjv.tsv",
+      "verses": 31102,
+      "bytes": 11464659
+    },
+    {
+      "id": "traditional",
+      "collection": "bible",
+      "file": "traditional.tsv",
+      "verses": 31103,
+      "bytes": 3610585
+    },
+    {
+      "id": "vietnamese",
+      "collection": "bible",
+      "file": "vietnamese.tsv",
+      "verses": 31102,
+      "bytes": 5525424
+    },
+    {
+      "id": "web",
+      "collection": "bible",
+      "file": "web.tsv",
+      "verses": 3391,
+      "bytes": 361523
+    }
+  ]
+}

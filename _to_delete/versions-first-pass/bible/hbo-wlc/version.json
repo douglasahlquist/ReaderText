@@ -1,0 +1,70 @@
+{
+  "key": "hbo-wlc",
+  "collection": "bible",
+  "name": "Westminster Leningrad Codex (WLC)",
+  "short": "WLC",
+  "language": "hbo",
+  "script": "Hebr",
+  "kind": "original",
+  "license": "Public domain",
+  "numbering": "kjv",
+  "levels": [
+    "book",
+    "chapter",
+    "verse"
+  ],
+  "columns": [
+    "verse",
+    "text"
+  ],
+  "legacyID": "original",
+  "verses": 23011,
+  "coverage": {
+    "books": {
+      "GEN": "all",
+      "EXO": "all",
+      "LEV": "all",
+      "NUM": "all",
+      "DEU": "all",
+      "JOS": "all",
+      "JDG": "all",
+      "RUT": "all",
+      "1SA": "all",
+      "2SA": "all",
+      "1KI": "all",
+      "2KI": "all",
+      "1CH": "all",
+      "2CH": "all",
+      "EZR": "all",
+      "NEH": "all",
+      "EST": "all",
+      "JOB": "all",
+      "PSA": "all",
+      "PRO": "all",
+      "ECC": "all",
+      "SNG": "all",
+      "ISA": "all",
+      "JER": "all",
+      "LAM": "all",
+      "EZK": "all",
+      "DAN": "all",
+      "HOS": "all",
+      "JOL": "all",
+      "AMO": "all",
+      "OBA": "all",
+      "JON": "all",
+      "MIC": "all",
+      "NAM": "all",
+      "HAB": "all",
+      "ZEP": "all",
+      "HAG": "all",
+      "ZEC": "all",
+      "MAL": "all"
+    },
+    "omitted": [],
+    "additional": []
+  },
+  "notes": [
+    "Hebrew text currently placed under English (KJV) chapter/verse numbers; about 37 chapters still carry Masoretic numbering - see gap report."
+  ]
+}

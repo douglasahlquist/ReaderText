@@ -1,0 +1,40 @@
+{
+  "key": "en-bbe",
+  "collection": "bible",
+  "name": "Bible in Basic English (BBE, 1949/1964)",
+  "short": "BBE",
+  "language": "en",
+  "script": "Latn",
+  "kind": "translation",
+  "license": "Public domain",
+  "numbering": "kjv",
+  "levels": [
+    "book",
+    "chapter",
+    "verse"
+  ],
+  "columns": [
+    "verse",
+    "text"
+  ],
+  "source": "bbe",
+  "legacyID": "bbe",
+  "verses": 5304,
+  "coverage": {
+    "books": {
+      "GEN": "all",
+      "PSA": "all",
+      "JHN": "all",
+      "ROM": "all"
+    },
+    "omitted": [
+      "JHN.5.4",
+      "ROM.16.24"
+    ],
+    "additional": [],
+    "notes": {
+      "JHN.5.4": "Not in this translation (follows the Revised Version text)",
+      "ROM.16.24": "Not in this translation (follows the Revised Version text)"
+    }
+  }
+}
