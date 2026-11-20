@@ -91,5 +91,11 @@
     },
     "omitted": [],
     "additional": []
+  },
+  "pack": {
+    "file": "de-luther1912.pack",
+    "sha": "3ca0e593a2780b95",
+    "bytes": 1925995,
+    "files": 1189
   }
 }

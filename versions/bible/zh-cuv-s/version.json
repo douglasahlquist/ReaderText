@@ -104,5 +104,11 @@
       "REV.12.18": "The last verse is divided differently (modern numbering)",
       "3JN.1.15": "The last verse is divided differently (modern numbering)"
     }
+  },
+  "pack": {
+    "file": "zh-cuv-s.pack",
+    "sha": "1d1dc26674fdf4f6",
+    "bytes": 3755415,
+    "files": 1189
   }
 }

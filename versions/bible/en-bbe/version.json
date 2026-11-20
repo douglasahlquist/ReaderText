@@ -36,5 +36,11 @@
       "JHN.5.4": "Not in this translation (follows the Revised Version text)",
       "ROM.16.24": "Not in this translation (follows the Revised Version text)"
     }
+  },
+  "pack": {
+    "file": "en-bbe.pack",
+    "sha": "82c997438cf5fa8d",
+    "bytes": 270512,
+    "files": 237
   }
 }

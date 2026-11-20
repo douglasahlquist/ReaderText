@@ -140,5 +140,11 @@
     },
     "omitted": [],
     "additional": []
+  },
+  "pack": {
+    "file": "ar-bazzi.pack",
+    "sha": "9d66f09771a3ef15",
+    "bytes": 381766,
+    "files": 114
   }
 }

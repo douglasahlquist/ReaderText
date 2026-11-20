@@ -138,5 +138,11 @@
     },
     "omitted": [],
     "additional": []
+  },
+  "pack": {
+    "file": "ar-hafs.pack",
+    "sha": "3821f3c7ddb1c3ba",
+    "bytes": 356597,
+    "files": 114
   }
 }

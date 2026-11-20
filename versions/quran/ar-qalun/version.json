@@ -145,5 +145,11 @@
     "notes": {
       "001.1": "The basmala is not counted as a verse in this count"
     }
+  },
+  "pack": {
+    "file": "ar-qalun.pack",
+    "sha": "d68fac7d1b904d2d",
+    "bytes": 387031,
+    "files": 114
   }
 }

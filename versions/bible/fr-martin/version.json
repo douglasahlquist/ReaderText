@@ -91,5 +91,11 @@
     },
     "omitted": [],
     "additional": []
+  },
+  "pack": {
+    "file": "fr-martin.pack",
+    "sha": "fefe07d39f319229",
+    "bytes": 2055682,
+    "files": 1189
   }
 }

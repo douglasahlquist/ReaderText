@@ -91,5 +91,11 @@
     },
     "omitted": [],
     "additional": []
+  },
+  "pack": {
+    "file": "vi-1934.pack",
+    "sha": "21e5e2256914cc16",
+    "bytes": 2123853,
+    "files": 1189
   }
 }

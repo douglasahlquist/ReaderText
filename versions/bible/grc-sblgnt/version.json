@@ -128,5 +128,11 @@
       "REV.12.18": "The last verse is divided differently (modern numbering)",
       "3JN.1.15": "The last verse is divided differently (modern numbering)"
     }
+  },
+  "pack": {
+    "file": "grc-sblgnt.pack",
+    "sha": "44868a1337c0294e",
+    "bytes": 601983,
+    "files": 260
   }
 }

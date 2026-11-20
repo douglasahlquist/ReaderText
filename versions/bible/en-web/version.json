@@ -45,5 +45,11 @@
       "ROM.14.25": "Beyond the KJV numbering",
       "ROM.14.26": "Beyond the KJV numbering"
     }
+  },
+  "pack": {
+    "file": "en-web.pack",
+    "sha": "585fb240162842b8",
+    "bytes": 268790,
+    "files": 237
   }
 }

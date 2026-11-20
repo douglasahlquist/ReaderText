@@ -1,1 +1,8 @@
 **/.DS_Store
+# Restricted versions: never in the public repo in plain text (encrypted packs only, see LIBRARY_REORG.md)
+versions/bible/nsk-naskapi/
+versions/bible/th-kjv/
+versions/quran/en-sahih/
+search/naskapi.tsv
+search/thkjv.tsv
+_to_delete/

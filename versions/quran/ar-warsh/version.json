@@ -145,5 +145,11 @@
     "notes": {
       "001.1": "The basmala is not counted as a verse in this count"
     }
+  },
+  "pack": {
+    "file": "ar-warsh.pack",
+    "sha": "b443100edd91f2b4",
+    "bytes": 391501,
+    "files": 114
   }
 }

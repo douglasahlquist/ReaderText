@@ -138,5 +138,11 @@
     },
     "omitted": [],
     "additional": []
+  },
+  "pack": {
+    "file": "ar-latn-hafs.pack",
+    "sha": "bc84d78991155860",
+    "bytes": 282866,
+    "files": 114
   }
 }

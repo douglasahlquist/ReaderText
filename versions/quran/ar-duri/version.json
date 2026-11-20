@@ -145,5 +145,11 @@
     "notes": {
       "001.1": "The basmala is not counted as a verse in this count"
     }
+  },
+  "pack": {
+    "file": "ar-duri.pack",
+    "sha": "06c37b5f546ca2a4",
+    "bytes": 391368,
+    "files": 114
   }
 }

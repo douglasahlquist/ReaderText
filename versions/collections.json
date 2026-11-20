@@ -14,397 +14,529 @@
           "code": "GEN",
           "slug": "genesis",
           "name": "Genesis",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "创世记",
+          "pinyin": "Chuàng shì jì"
         },
         {
           "code": "EXO",
           "slug": "exodus",
           "name": "Exodus",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "出埃及记",
+          "pinyin": "Chū āi jí jì"
         },
         {
           "code": "LEV",
           "slug": "leviticus",
           "name": "Leviticus",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "利未记",
+          "pinyin": "Lì wèi jì"
         },
         {
           "code": "NUM",
           "slug": "numbers",
           "name": "Numbers",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "民数记",
+          "pinyin": "Mín shù jì"
         },
         {
           "code": "DEU",
           "slug": "deuteronomy",
           "name": "Deuteronomy",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "申命记",
+          "pinyin": "Shēn mìng jì"
         },
         {
           "code": "JOS",
           "slug": "joshua",
           "name": "Joshua",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "约书亚记",
+          "pinyin": "Yuē shū yà jì"
         },
         {
           "code": "JDG",
           "slug": "judges",
           "name": "Judges",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "士师记",
+          "pinyin": "Shì shī jì"
         },
         {
           "code": "RUT",
           "slug": "ruth",
           "name": "Ruth",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "路得记",
+          "pinyin": "Lù dé jì"
         },
         {
           "code": "1SA",
           "slug": "1-samuel",
           "name": "1 Samuel",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "撒母耳记上",
+          "pinyin": "Sā mǔ ěr jì shàng"
         },
         {
           "code": "2SA",
           "slug": "2-samuel",
           "name": "2 Samuel",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "撒母耳记下",
+          "pinyin": "Sā mǔ ěr jì xià"
         },
         {
           "code": "1KI",
           "slug": "1-kings",
           "name": "1 Kings",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "列王纪上",
+          "pinyin": "Liè wáng jì shàng"
         },
         {
           "code": "2KI",
           "slug": "2-kings",
           "name": "2 Kings",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "列王纪下",
+          "pinyin": "Liè wáng jì xià"
         },
         {
           "code": "1CH",
           "slug": "1-chronicles",
           "name": "1 Chronicles",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "历代志上",
+          "pinyin": "Lì dài zhì shàng"
         },
         {
           "code": "2CH",
           "slug": "2-chronicles",
           "name": "2 Chronicles",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "历代志下",
+          "pinyin": "Lì dài zhì xià"
         },
         {
           "code": "EZR",
           "slug": "ezra",
           "name": "Ezra",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "以斯拉记",
+          "pinyin": "Yǐ sī lā jì"
         },
         {
           "code": "NEH",
           "slug": "nehemiah",
           "name": "Nehemiah",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "尼希米记",
+          "pinyin": "Ní xī mǐ jì"
         },
         {
           "code": "EST",
           "slug": "esther",
           "name": "Esther",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "以斯帖记",
+          "pinyin": "Yǐ sī tiē jì"
         },
         {
           "code": "JOB",
           "slug": "job",
           "name": "Job",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "约伯记",
+          "pinyin": "Yuē bó jì"
         },
         {
           "code": "PSA",
           "slug": "psalms",
           "name": "Psalms",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "诗篇",
+          "pinyin": "Shī piān"
         },
         {
           "code": "PRO",
           "slug": "proverbs",
           "name": "Proverbs",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "箴言",
+          "pinyin": "Zhēn yán"
         },
         {
           "code": "ECC",
           "slug": "ecclesiastes",
           "name": "Ecclesiastes",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "传道书",
+          "pinyin": "Chuán dào shū"
         },
         {
           "code": "SNG",
           "slug": "song-of-songs",
           "name": "Song of Songs",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "雅歌",
+          "pinyin": "Yǎ gē"
         },
         {
           "code": "ISA",
           "slug": "isaiah",
           "name": "Isaiah",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "以赛亚书",
+          "pinyin": "Yǐ sài yà shū"
         },
         {
           "code": "JER",
           "slug": "jeremiah",
           "name": "Jeremiah",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "耶利米书",
+          "pinyin": "Yē lì mǐ shū"
         },
         {
           "code": "LAM",
           "slug": "lamentations",
           "name": "Lamentations",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "耶利米哀歌",
+          "pinyin": "Yē lì mǐ āi gē"
         },
         {
           "code": "EZK",
           "slug": "ezekiel",
           "name": "Ezekiel",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "以西结书",
+          "pinyin": "Yǐ xī jié shū"
         },
         {
           "code": "DAN",
           "slug": "daniel",
           "name": "Daniel",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "但以理书",
+          "pinyin": "Dàn yǐ lǐ shū"
         },
         {
           "code": "HOS",
           "slug": "hosea",
           "name": "Hosea",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "何西阿书",
+          "pinyin": "Hé xī ā shū"
         },
         {
           "code": "JOL",
           "slug": "joel",
           "name": "Joel",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "约珥书",
+          "pinyin": "Yuē ěr shū"
         },
         {
           "code": "AMO",
           "slug": "amos",
           "name": "Amos",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "阿摩司书",
+          "pinyin": "Ā mó sī shū"
         },
         {
           "code": "OBA",
           "slug": "obadiah",
           "name": "Obadiah",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "俄巴底亚书",
+          "pinyin": "É bā dǐ yà shū"
         },
         {
           "code": "JON",
           "slug": "jonah",
           "name": "Jonah",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "约拿书",
+          "pinyin": "Yuē ná shū"
         },
         {
           "code": "MIC",
           "slug": "micah",
           "name": "Micah",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "弥迦书",
+          "pinyin": "Mí jiā shū"
         },
         {
           "code": "NAM",
           "slug": "nahum",
           "name": "Nahum",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "那鸿书",
+          "pinyin": "Nà hóng shū"
         },
         {
           "code": "HAB",
           "slug": "habakkuk",
           "name": "Habakkuk",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "哈巴谷书",
+          "pinyin": "Hā bā gǔ shū"
         },
         {
           "code": "ZEP",
           "slug": "zephaniah",
           "name": "Zephaniah",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "西番雅书",
+          "pinyin": "Xī fān yǎ shū"
         },
         {
           "code": "HAG",
           "slug": "haggai",
           "name": "Haggai",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "哈该书",
+          "pinyin": "Hā gāi shū"
         },
         {
           "code": "ZEC",
           "slug": "zechariah",
           "name": "Zechariah",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "撒迦利亚书",
+          "pinyin": "Sā jiā lì yà shū"
         },
         {
           "code": "MAL",
           "slug": "malachi",
           "name": "Malachi",
-          "testament": "OT"
+          "testament": "OT",
+          "zh": "玛拉基书",
+          "pinyin": "Mǎ lā jī shū"
         },
         {
           "code": "MAT",
           "slug": "matthew",
           "name": "Matthew",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "马太福音",
+          "pinyin": "Mǎ tài fú yīn"
         },
         {
           "code": "MRK",
           "slug": "mark",
           "name": "Mark",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "马可福音",
+          "pinyin": "Mǎ kě fú yīn"
         },
         {
           "code": "LUK",
           "slug": "luke",
           "name": "Luke",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "路加福音",
+          "pinyin": "Lù jiā fú yīn"
         },
         {
           "code": "JHN",
           "slug": "john",
           "name": "John",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "约翰福音",
+          "pinyin": "Yuē hàn fú yīn"
         },
         {
           "code": "ACT",
           "slug": "acts",
           "name": "Acts",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "使徒行传",
+          "pinyin": "Shǐ tú xíng zhuàn"
         },
         {
           "code": "ROM",
           "slug": "romans",
           "name": "Romans",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "罗马书",
+          "pinyin": "Luó mǎ shū"
         },
         {
           "code": "1CO",
           "slug": "1-corinthians",
           "name": "1 Corinthians",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "哥林多前书",
+          "pinyin": "Gē lín duō qián shū"
         },
         {
           "code": "2CO",
           "slug": "2-corinthians",
           "name": "2 Corinthians",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "哥林多后书",
+          "pinyin": "Gē lín duō hòu shū"
         },
         {
           "code": "GAL",
           "slug": "galatians",
           "name": "Galatians",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "加拉太书",
+          "pinyin": "Jiā lā tài shū"
         },
         {
           "code": "EPH",
           "slug": "ephesians",
           "name": "Ephesians",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "以弗所书",
+          "pinyin": "Yǐ fú suǒ shū"
         },
         {
           "code": "PHP",
           "slug": "philippians",
           "name": "Philippians",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "腓立比书",
+          "pinyin": "Féi lì bǐ shū"
         },
         {
           "code": "COL",
           "slug": "colossians",
           "name": "Colossians",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "歌罗西书",
+          "pinyin": "Gē luó xī shū"
         },
         {
           "code": "1TH",
           "slug": "1-thessalonians",
           "name": "1 Thessalonians",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "帖撒罗尼迦前书",
+          "pinyin": "Tiē sā luó ní jiā qián shū"
         },
         {
           "code": "2TH",
           "slug": "2-thessalonians",
           "name": "2 Thessalonians",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "帖撒罗尼迦后书",
+          "pinyin": "Tiē sā luó ní jiā hòu shū"
         },
         {
           "code": "1TI",
           "slug": "1-timothy",
           "name": "1 Timothy",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "提摩太前书",
+          "pinyin": "Tí mó tài qián shū"
         },
         {
           "code": "2TI",
           "slug": "2-timothy",
           "name": "2 Timothy",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "提摩太后书",
+          "pinyin": "Tí mó tài hòu shū"
         },
         {
           "code": "TIT",
           "slug": "titus",
           "name": "Titus",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "提多书",
+          "pinyin": "Tí duō shū"
         },
         {
           "code": "PHM",
           "slug": "philemon",
           "name": "Philemon",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "腓利门书",
+          "pinyin": "Féi lì mén shū"
         },
         {
           "code": "HEB",
           "slug": "hebrews",
           "name": "Hebrews",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "希伯来书",
+          "pinyin": "Xī bó lái shū"
         },
         {
           "code": "JAS",
           "slug": "james",
           "name": "James",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "雅各书",
+          "pinyin": "Yǎ gè shū"
         },
         {
           "code": "1PE",
           "slug": "1-peter",
           "name": "1 Peter",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "彼得前书",
+          "pinyin": "Bǐ dé qián shū"
         },
         {
           "code": "2PE",
           "slug": "2-peter",
           "name": "2 Peter",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "彼得后书",
+          "pinyin": "Bǐ dé hòu shū"
         },
         {
           "code": "1JN",
           "slug": "1-john",
           "name": "1 John",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "约翰一书",
+          "pinyin": "Yuē hàn yī shū"
         },
         {
           "code": "2JN",
           "slug": "2-john",
           "name": "2 John",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "约翰二书",
+          "pinyin": "Yuē hàn èr shū"
         },
         {
           "code": "3JN",
           "slug": "3-john",
           "name": "3 John",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "约翰三书",
+          "pinyin": "Yuē hàn sān shū"
         },
         {
           "code": "JUD",
           "slug": "jude",
           "name": "Jude",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "犹大书",
+          "pinyin": "Yóu dà shū"
         },
         {
           "code": "REV",
           "slug": "revelation",
           "name": "Revelation",
-          "testament": "NT"
+          "testament": "NT",
+          "zh": "启示录",
+          "pinyin": "Qǐ shì lù"
         }
       ]
     },
@@ -418,346 +550,460 @@
       "reference": "kufan",
       "books": [
         {
-          "code": "001"
+          "code": "001",
+          "slug": "001-al-fatihah"
         },
         {
-          "code": "002"
+          "code": "002",
+          "slug": "002-al-baqarah"
         },
         {
-          "code": "003"
+          "code": "003",
+          "slug": "003-ali-imran"
         },
         {
-          "code": "004"
+          "code": "004",
+          "slug": "004-an-nisa"
         },
         {
-          "code": "005"
+          "code": "005",
+          "slug": "005-al-maidah"
         },
         {
-          "code": "006"
+          "code": "006",
+          "slug": "006-al-anam"
         },
         {
-          "code": "007"
+          "code": "007",
+          "slug": "007-al-araf"
         },
         {
-          "code": "008"
+          "code": "008",
+          "slug": "008-al-anfal"
         },
         {
-          "code": "009"
+          "code": "009",
+          "slug": "009-at-tawbah"
         },
         {
-          "code": "010"
+          "code": "010",
+          "slug": "010-yunus"
         },
         {
-          "code": "011"
+          "code": "011",
+          "slug": "011-hud"
         },
         {
-          "code": "012"
+          "code": "012",
+          "slug": "012-yusuf"
         },
         {
-          "code": "013"
+          "code": "013",
+          "slug": "013-ar-rad"
         },
         {
-          "code": "014"
+          "code": "014",
+          "slug": "014-ibrahim"
         },
         {
-          "code": "015"
+          "code": "015",
+          "slug": "015-al-hijr"
         },
         {
-          "code": "016"
+          "code": "016",
+          "slug": "016-an-nahl"
         },
         {
-          "code": "017"
+          "code": "017",
+          "slug": "017-al-isra"
         },
         {
-          "code": "018"
+          "code": "018",
+          "slug": "018-al-kahf"
         },
         {
-          "code": "019"
+          "code": "019",
+          "slug": "019-maryam"
         },
         {
-          "code": "020"
+          "code": "020",
+          "slug": "020-taha"
         },
         {
-          "code": "021"
+          "code": "021",
+          "slug": "021-al-anbya"
         },
         {
-          "code": "022"
+          "code": "022",
+          "slug": "022-al-hajj"
         },
         {
-          "code": "023"
+          "code": "023",
+          "slug": "023-al-muminun"
         },
         {
-          "code": "024"
+          "code": "024",
+          "slug": "024-an-nur"
         },
         {
-          "code": "025"
+          "code": "025",
+          "slug": "025-al-furqan"
         },
         {
-          "code": "026"
+          "code": "026",
+          "slug": "026-ash-shuara"
         },
         {
-          "code": "027"
+          "code": "027",
+          "slug": "027-an-naml"
         },
         {
-          "code": "028"
+          "code": "028",
+          "slug": "028-al-qasas"
         },
         {
-          "code": "029"
+          "code": "029",
+          "slug": "029-al-ankabut"
         },
         {
-          "code": "030"
+          "code": "030",
+          "slug": "030-ar-rum"
         },
         {
-          "code": "031"
+          "code": "031",
+          "slug": "031-luqman"
         },
         {
-          "code": "032"
+          "code": "032",
+          "slug": "032-as-sajdah"
         },
         {
-          "code": "033"
+          "code": "033",
+          "slug": "033-al-ahzab"
         },
         {
-          "code": "034"
+          "code": "034",
+          "slug": "034-saba"
         },
         {
-          "code": "035"
+          "code": "035",
+          "slug": "035-fatir"
         },
         {
-          "code": "036"
+          "code": "036",
+          "slug": "036-ya-sin"
         },
         {
-          "code": "037"
+          "code": "037",
+          "slug": "037-as-saffat"
         },
         {
-          "code": "038"
+          "code": "038",
+          "slug": "038-sad"
         },
         {
-          "code": "039"
+          "code": "039",
+          "slug": "039-az-zumar"
         },
         {
-          "code": "040"
+          "code": "040",
+          "slug": "040-ghafir"
         },
         {
-          "code": "041"
+          "code": "041",
+          "slug": "041-fussilat"
         },
         {
-          "code": "042"
+          "code": "042",
+          "slug": "042-ash-shuraa"
         },
         {
-          "code": "043"
+          "code": "043",
+          "slug": "043-az-zukhruf"
         },
         {
-          "code": "044"
+          "code": "044",
+          "slug": "044-ad-dukhan"
         },
         {
-          "code": "045"
+          "code": "045",
+          "slug": "045-al-jathiyah"
         },
         {
-          "code": "046"
+          "code": "046",
+          "slug": "046-al-ahqaf"
         },
         {
-          "code": "047"
+          "code": "047",
+          "slug": "047-muhammad"
         },
         {
-          "code": "048"
+          "code": "048",
+          "slug": "048-al-fath"
         },
         {
-          "code": "049"
+          "code": "049",
+          "slug": "049-al-hujurat"
         },
         {
-          "code": "050"
+          "code": "050",
+          "slug": "050-qaf"
         },
         {
-          "code": "051"
+          "code": "051",
+          "slug": "051-adh-dhariyat"
         },
         {
-          "code": "052"
+          "code": "052",
+          "slug": "052-at-tur"
         },
         {
-          "code": "053"
+          "code": "053",
+          "slug": "053-an-najm"
         },
         {
-          "code": "054"
+          "code": "054",
+          "slug": "054-al-qamar"
         },
         {
-          "code": "055"
+          "code": "055",
+          "slug": "055-ar-rahman"
         },
         {
-          "code": "056"
+          "code": "056",
+          "slug": "056-al-waqiah"
         },
         {
-          "code": "057"
+          "code": "057",
+          "slug": "057-al-hadid"
         },
         {
-          "code": "058"
+          "code": "058",
+          "slug": "058-al-mujadila"
         },
         {
-          "code": "059"
+          "code": "059",
+          "slug": "059-al-hashr"
         },
         {
-          "code": "060"
+          "code": "060",
+          "slug": "060-al-mumtahanah"
         },
         {
-          "code": "061"
+          "code": "061",
+          "slug": "061-as-saf"
         },
         {
-          "code": "062"
+          "code": "062",
+          "slug": "062-al-jumuah"
         },
         {
-          "code": "063"
+          "code": "063",
+          "slug": "063-al-munafiqun"
         },
         {
-          "code": "064"
+          "code": "064",
+          "slug": "064-at-taghabun"
         },
         {
-          "code": "065"
+          "code": "065",
+          "slug": "065-at-talaq"
         },
         {
-          "code": "066"
+          "code": "066",
+          "slug": "066-at-tahrim"
         },
         {
-          "code": "067"
+          "code": "067",
+          "slug": "067-al-mulk"
         },
         {
-          "code": "068"
+          "code": "068",
+          "slug": "068-al-qalam"
         },
         {
-          "code": "069"
+          "code": "069",
+          "slug": "069-al-haqqah"
         },
         {
-          "code": "070"
+          "code": "070",
+          "slug": "070-al-maarij"
         },
         {
-          "code": "071"
+          "code": "071",
+          "slug": "071-nuh"
         },
         {
-          "code": "072"
+          "code": "072",
+          "slug": "072-al-jinn"
         },
         {
-          "code": "073"
+          "code": "073",
+          "slug": "073-al-muzzammil"
         },
         {
-          "code": "074"
+          "code": "074",
+          "slug": "074-al-muddaththir"
         },
         {
-          "code": "075"
+          "code": "075",
+          "slug": "075-al-qiyamah"
         },
         {
-          "code": "076"
+          "code": "076",
+          "slug": "076-al-insan"
         },
         {
-          "code": "077"
+          "code": "077",
+          "slug": "077-al-mursalat"
         },
         {
-          "code": "078"
+          "code": "078",
+          "slug": "078-an-naba"
         },
         {
-          "code": "079"
+          "code": "079",
+          "slug": "079-an-naziat"
         },
         {
-          "code": "080"
+          "code": "080",
+          "slug": "080-abasa"
         },
         {
-          "code": "081"
+          "code": "081",
+          "slug": "081-at-takwir"
         },
         {
-          "code": "082"
+          "code": "082",
+          "slug": "082-al-infitar"
         },
         {
-          "code": "083"
+          "code": "083",
+          "slug": "083-al-mutaffifin"
         },
         {
-          "code": "084"
+          "code": "084",
+          "slug": "084-al-inshiqaq"
         },
         {
-          "code": "085"
+          "code": "085",
+          "slug": "085-al-buruj"
         },
         {
-          "code": "086"
+          "code": "086",
+          "slug": "086-at-tariq"
         },
         {
-          "code": "087"
+          "code": "087",
+          "slug": "087-al-ala"
         },
         {
-          "code": "088"
+          "code": "088",
+          "slug": "088-al-ghashiyah"
         },
         {
-          "code": "089"
+          "code": "089",
+          "slug": "089-al-fajr"
         },
         {
-          "code": "090"
+          "code": "090",
+          "slug": "090-al-balad"
         },
         {
-          "code": "091"
+          "code": "091",
+          "slug": "091-ash-shams"
         },
         {
-          "code": "092"
+          "code": "092",
+          "slug": "092-al-layl"
         },
         {
-          "code": "093"
+          "code": "093",
+          "slug": "093-ad-duhaa"
         },
         {
-          "code": "094"
+          "code": "094",
+          "slug": "094-ash-sharh"
         },
         {
-          "code": "095"
+          "code": "095",
+          "slug": "095-at-tin"
         },
         {
-          "code": "096"
+          "code": "096",
+          "slug": "096-al-alaq"
         },
         {
-          "code": "097"
+          "code": "097",
+          "slug": "097-al-qadr"
         },
         {
-          "code": "098"
+          "code": "098",
+          "slug": "098-al-bayyinah"
         },
         {
-          "code": "099"
+          "code": "099",
+          "slug": "099-az-zalzalah"
         },
         {
-          "code": "100"
+          "code": "100",
+          "slug": "100-al-adiyat"
         },
         {
-          "code": "101"
+          "code": "101",
+          "slug": "101-al-qariah"
         },
         {
-          "code": "102"
+          "code": "102",
+          "slug": "102-at-takathur"
         },
         {
-          "code": "103"
+          "code": "103",
+          "slug": "103-al-asr"
         },
         {
-          "code": "104"
+          "code": "104",
+          "slug": "104-al-humazah"
         },
         {
-          "code": "105"
+          "code": "105",
+          "slug": "105-al-fil"
         },
         {
-          "code": "106"
+          "code": "106",
+          "slug": "106-quraysh"
         },
         {
-          "code": "107"
+          "code": "107",
+          "slug": "107-al-maun"
         },
         {
-          "code": "108"
+          "code": "108",
+          "slug": "108-al-kawthar"
         },
         {
-          "code": "109"
+          "code": "109",
+          "slug": "109-al-kafirun"
         },
         {
-          "code": "110"
+          "code": "110",
+          "slug": "110-an-nasr"
         },
         {
-          "code": "111"
+          "code": "111",
+          "slug": "111-al-masad"
         },
         {
-          "code": "112"
+          "code": "112",
+          "slug": "112-al-ikhlas"
         },
         {
-          "code": "113"
+          "code": "113",
+          "slug": "113-al-falaq"
         },
         {
-          "code": "114"
+          "code": "114",
+          "slug": "114-an-nas"
         }
       ]
     },
@@ -785,99 +1031,172 @@
   "versions": [
     {
       "collection": "bible",
-      "key": "en-kjv"
+      "key": "en-kjv",
+      "legacyIDs": [
+        "kjv"
+      ]
     },
     {
       "collection": "bible",
-      "key": "en-web"
+      "key": "en-web",
+      "legacyIDs": [
+        "web"
+      ]
     },
     {
       "collection": "bible",
-      "key": "en-bbe"
+      "key": "en-bbe",
+      "legacyIDs": [
+        "bbe"
+      ]
     },
     {
       "collection": "bible",
-      "key": "zh-cuv-s"
+      "key": "zh-cuv-s",
+      "legacyIDs": [
+        "simplified",
+        "pinyin"
+      ]
     },
     {
       "collection": "bible",
-      "key": "zh-cuv-t"
+      "key": "zh-cuv-t",
+      "legacyIDs": [
+        "traditional"
+      ]
     },
     {
       "collection": "bible",
-      "key": "hbo-wlc"
+      "key": "hbo-wlc",
+      "legacyIDs": [
+        "original"
+      ]
     },
     {
       "collection": "bible",
-      "key": "grc-sblgnt"
+      "key": "grc-sblgnt",
+      "legacyIDs": [
+        "original"
+      ]
     },
     {
       "collection": "bible",
-      "key": "grc-tr"
+      "key": "grc-tr",
+      "legacyIDs": [
+        "original"
+      ]
     },
     {
       "collection": "bible",
-      "key": "ko-krv"
+      "key": "ko-krv",
+      "legacyIDs": [
+        "krv"
+      ]
     },
     {
       "collection": "bible",
-      "key": "th-kjv"
+      "key": "th-kjv",
+      "legacyIDs": [
+        "thkjv"
+      ]
     },
     {
       "collection": "bible",
-      "key": "vi-1934"
+      "key": "vi-1934",
+      "legacyIDs": [
+        "vietnamese"
+      ]
     },
     {
       "collection": "bible",
-      "key": "fr-martin"
+      "key": "fr-martin",
+      "legacyIDs": [
+        "martin"
+      ]
     },
     {
       "collection": "bible",
-      "key": "de-luther1912"
+      "key": "de-luther1912",
+      "legacyIDs": [
+        "luther1912"
+      ]
     },
     {
       "collection": "bible",
-      "key": "nsk-naskapi"
+      "key": "nsk-naskapi",
+      "legacyIDs": [
+        "naskapi"
+      ]
     },
     {
       "collection": "quran",
-      "key": "ar-hafs"
+      "key": "ar-hafs",
+      "legacyIDs": [
+        "quran-arabic"
+      ]
     },
     {
       "collection": "quran",
-      "key": "ar-latn-hafs"
+      "key": "ar-latn-hafs",
+      "legacyIDs": [
+        "quran-romanization"
+      ]
     },
     {
       "collection": "quran",
-      "key": "ar-shubah"
+      "key": "ar-shubah",
+      "legacyIDs": [
+        "quran-riwaya-shubah"
+      ]
     },
     {
       "collection": "quran",
-      "key": "ar-warsh"
+      "key": "ar-warsh",
+      "legacyIDs": [
+        "quran-riwaya-warsh"
+      ]
     },
     {
       "collection": "quran",
-      "key": "ar-qalun"
+      "key": "ar-qalun",
+      "legacyIDs": [
+        "quran-riwaya-qalun"
+      ]
     },
     {
       "collection": "quran",
-      "key": "ar-duri"
+      "key": "ar-duri",
+      "legacyIDs": [
+        "quran-riwaya-duri"
+      ]
     },
     {
       "collection": "quran",
-      "key": "ar-susi"
+      "key": "ar-susi",
+      "legacyIDs": [
+        "quran-riwaya-susi"
+      ]
     },
     {
       "collection": "quran",
-      "key": "ar-bazzi"
+      "key": "ar-bazzi",
+      "legacyIDs": [
+        "quran-riwaya-bazzi"
+      ]
     },
     {
       "collection": "quran",
-      "key": "ar-qunbul"
+      "key": "ar-qunbul",
+      "legacyIDs": [
+        "quran-riwaya-qunbul"
+      ]
     },
     {
       "collection": "quran",
-      "key": "en-pickthall"
+      "key": "en-pickthall",
+      "legacyIDs": [
+        "pickthall"
+      ]
     }
   ]
 }

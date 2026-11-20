@@ -140,5 +140,11 @@
     },
     "omitted": [],
     "additional": []
+  },
+  "pack": {
+    "file": "ar-qunbul.pack",
+    "sha": "7463edaffca049f6",
+    "bytes": 381974,
+    "files": 114
   }
 }

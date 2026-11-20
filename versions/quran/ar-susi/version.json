@@ -145,5 +145,11 @@
     "notes": {
       "001.1": "The basmala is not counted as a verse in this count"
     }
+  },
+  "pack": {
+    "file": "ar-susi.pack",
+    "sha": "7605f226778f0ba4",
+    "bytes": 389541,
+    "files": 114
   }
 }

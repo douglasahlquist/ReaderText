@@ -212,5 +212,11 @@
       "PSA.55.1": "Psalm title counted as a verse",
       "PSA.41.1": "Psalm title counted as a verse"
     }
+  },
+  "pack": {
+    "file": "hbo-wlc.pack",
+    "sha": "be2ab17b6f64e1af",
+    "bytes": 1614758,
+    "files": 929
   }
 }

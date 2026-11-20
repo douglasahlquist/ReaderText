@@ -27,5 +27,11 @@
     },
     "omitted": [],
     "additional": []
+  },
+  "pack": {
+    "file": "grc-tr.pack",
+    "sha": "0c2793be721d7559",
+    "bytes": 72226,
+    "files": 37
   }
 }

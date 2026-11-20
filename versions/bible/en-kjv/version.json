@@ -91,5 +91,11 @@
     },
     "omitted": [],
     "additional": []
+  },
+  "pack": {
+    "file": "en-kjv.pack",
+    "sha": "bfeabc15d51cad01",
+    "bytes": 1816441,
+    "files": 1189
   }
 }

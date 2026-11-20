@@ -140,5 +140,11 @@
     },
     "omitted": [],
     "additional": []
+  },
+  "pack": {
+    "file": "ar-shubah.pack",
+    "sha": "1896dbe76985d2e4",
+    "bytes": 384202,
+    "files": 114
   }
 }

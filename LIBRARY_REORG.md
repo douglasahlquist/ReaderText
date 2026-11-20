@@ -10,10 +10,12 @@ versions/
   collections.json                 collections, their levels, books (USFM codes for the Bible), version list
   gap-report.md                    written by gap_analysis.py
   bible/<key>/version.json         name, language, script, license, numbering, columns, coverage
-  bible/<key>/<USFM>/<chapter>.tsv verse ⇥ text  (zh-cuv-s / zh-cuv-t: verse ⇥ text ⇥ pinyin)
+  bible/<key>/<USFM>/<chapter>.tsv verse ⇥ text  (zh-cuv-s / zh-cuv-t: verse ⇥ spaced Hanzi ⇥ pinyin)
+                                   in the edition's own numbering (hbo-wlc: Masoretic)
   quran/<key>/version.json
-  quran/<key>/<NNN>.tsv            ayah ⇥ text
+  quran/<key>/<NNN>.tsv            ayah ⇥ text  (the riwayat add ⇥ hafsStart ⇥ hafsEnd, e.g. 2:1)
 schemes/kjv.json                   reference versification for the Bible (31,102 verses)
+schemes/masoretic.json             Hebrew chapter counts + fromKJV map (1,961 verses renumbered)
 schemes/kufan.json                 reference count for the Qur'an (Hafs/Kufan, 6,236)
 bundles/ChineseReader.json         required / default / offered / hidden version keys
 ```
@@ -45,25 +47,51 @@ ar-shubah, ar-warsh, ar-qalun, ar-duri, ar-susi, ar-bazzi, ar-qunbul, en-picktha
 
 ## Tools (ChineseReaderTools/library/)
 
-1. `python3 build_versions.py <ReaderText>` — splits the per-version search files into version folders.
-   Keeps curated coverage.omitted, notes and access on rerun.
-2. `python3 gap_analysis.py <ReaderText>` — fills coverage, writes schemes/ and versions/gap-report.md.
+1. `WORKSPACE_ISLAM=… python3 build_versions.py <ReaderText>` — builds the version folders from
+   BibleSources (Chinese through the same language kit as the pages), the riwayat sources, and
+   search/*.tsv for Naskapi, Hafs, romanization and Pickthall. Keeps curated coverage, notes, access.
+2. `python3 gap_analysis.py <ReaderText>` — fills coverage (omitted with reasons, additional with
+   reasons), writes schemes/ and versions/gap-report.md + .json. Seed reasons live in SEED.
+3. `python3 gap_report_pdf.py <ReaderText> --islam <workspace_islam>` — documents/reference/
+   bible-gap-report.pdf and islamic-texts-gap-report.pdf.
+4. `python3 version_packs.py <ReaderText>` — one `<key>.pack` per version (the download, and later
+   the encryption unit; sha in version.json "pack"), Chinese book names and Qur'an slugs in
+   collections.json, versions/bible/paragraphs.json (the pages' groups). Run after gap_analysis.py.
+5. `python3 patch_pages.py <ReaderText>` — brings the old combined pages in line with versions/
+   (WLC through the Masoretic map, missing rows, gap notices, Malachi 4). Then rerun
+   `search/search_index.py --library <ReaderText>` (it skips the notices).
+`versification.py` holds the Masoretic↔KJV shifts.
 
 ## Steps
 
 1. [x] Version folders, collections.json, bundles, schemes, gap tool (additive; app unaffected —
        `versions/` is not in AppConfig content.include).
-2. [ ] Fix data errors the gap report found (below), then rerun both tools.
-3. [ ] App: read `versions/` (VersionStore from version.json + bundle; QuickRead/LessonView build
-       comparative rows from chapter TSVs), keep old passage pages as fallback.
-4. [ ] App: missing-verse notices from coverage; notes on gaps.
-5. [ ] Search index built from versions/ instead of search/*.tsv.
-6. [ ] Restricted versions: AES-GCM encrypted per version, key via REST (API Gateway + Lambda + DynamoDB),
+2. [x] Fix data errors: Malachi 4, John 7:53, WLC alignment, riwayat counts (built from sources).
+       Old pages patched to match (220 pages + Malachi 4); search index rebuilt.
+3. [x] App reads the version folders (VersionLibrary.swift): installs each version from its pack
+       (en-kjv, zh-cuv-s, zh-cuv-t ship in the app's Library.pack), makes whole-chapter pages from
+       the installed versions (old page files when one in use isn't installed), and makes search
+       files on the device. Bundle hidden list applied.
+3b. [ ] Once every device runs that build: delete search/ from the library (and search_index.py),
+       then the combined pages (bible/passages/*.wlc.md, *.kjv.md; editions pages later).
+4. [~] App: gap notices shown muted in that version's row, skipped by Read Aloud and search.
+       Next: notes on gaps (pointer bible · <key> · BOOK.c.v).
+5. [x] Search built on the device from versions/ (VersionLibrary.searchText).
+6. [ ] Restricted versions (gitignored now: versions/bible/nsk-naskapi, th-kjv, quran/en-sahih,
+       search/naskapi.tsv, thkjv.tsv; their columns are still in the combined pages): AES-GCM encrypted per version, key via REST (API Gateway + Lambda + DynamoDB),
        cached in the Keychain. Applies to nsk-naskapi (permission), th-kjv (NC-ND), en-sahih (private).
 7. [ ] Hadith editions and Other Documents as collections.
 8. [ ] Remove old combined pages once all devices are on the new layout.
 
-## Findings from the first gap report (2026-11-20)
+## Open data items (see documents/reference/bible-gap-report.pdf, islamic-texts-gap-report.pdf)
+
+- fr-martin: 31 verses lost at French chapter breaks — re-source a complete Martin.
+- ko-krv: 7 OT/NT verses to check; NT "(eopseum)" verses recorded as omitted — confirm with a print copy.
+- nsk-naskapi: GEN 25:8, 25:15, PSA 134:1, JHN 7:53, COL 1:2 — check the workspace_naskapi corpus.
+- Hadith: import as versions/hadith/<key>/ (book · section · number), gap-check per collection.
+- en-asv, en-sahih: no data.
+
+## Findings from the first gap report (2026-11-20, superseded)
 
 - **Whole library**: Malachi 4 (6 verses) was never generated — the passage list follows the Hebrew
   3-chapter Malachi. John 7:53 is missing in every edition. Fix in the page builder.
@@ -80,3 +108,7 @@ ar-shubah, ar-warsh, ar-qalun, ar-duri, ar-susi, ar-bazzi, ar-qunbul, en-picktha
 ## Log
 
 - 2026-11-20: Step 1 done. 24 versions written (12,532 chapter files, ~71 MB uncompressed).
+- 2026-11-20: Rebuilt from sources (all counts exact), Masoretic map, gap reasons, two gap-report PDFs,
+  pages patched + Malachi 4, search index rebuilt, app reads the bundle and shows notices.
+- 2026-11-20: Restricted folders kept out of git (first commit amended). Version packs; the app
+  reads versions/ with page files as fallback, and searches on the device.

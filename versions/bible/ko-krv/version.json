@@ -123,5 +123,11 @@
     "additionalNotes": {
       "3JN.1.15": "The last verse is divided differently (modern numbering)"
     }
+  },
+  "pack": {
+    "file": "ko-krv.pack",
+    "sha": "dbd570267c4c6574",
+    "bytes": 1918388,
+    "files": 1189
   }
 }
