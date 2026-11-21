@@ -9,13 +9,13 @@
   "default": [
     "en-kjv",
     "zh-cuv-s",
-    "zh-cuv-t"
+    "zh-cuv-t",
+    "hbo-wlc",
+    "grc-sblgnt"
   ],
   "offered": [
     "en-web",
     "en-bbe",
-    "hbo-wlc",
-    "grc-sblgnt",
     "grc-tr",
     "ko-krv",
     "th-kjv",
