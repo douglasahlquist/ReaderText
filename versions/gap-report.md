@@ -1,13 +1,23 @@
 # Gap report
 
-Generated 2026-11-20. References: KJV 31102 verses; Masoretic 23213 (1961 KJV verses renumbered); Qur'an Kufan 6236.
+Generated 2026-11-22. References: KJV 31102 verses; Masoretic 23213 (1961 KJV verses renumbered); Qur'an Kufan 6236.
 
 ## bible · de-luther1912 — Luther (1912)
+- verses 31102 · numbering kjv · books 66
+
+## bible · en-akjv — American King James Version (AKJV)
+- verses 31102 · numbering kjv · books 66
+
+## bible · en-asv — American Standard Version (ASV, 1901)
 - verses 31102 · numbering kjv · books 66
 
 ## bible · en-bbe — Bible in Basic English (BBE, 1949/1964)
 - verses 5304 · numbering kjv · books 4
 - omitted/joined in this edition: 2
+
+## bible · en-darby — Darby Bible (1890)
+- verses 31099 · numbering kjv · books 66
+- possibly data errors: 3: MAT.23.14, ACT.8.37, ACT.15.34
 
 ## bible · en-kjv — King James Version (KJV, 1769)
 - verses 31102 · numbering kjv · books 66
@@ -16,6 +26,13 @@ Generated 2026-11-20. References: KJV 31102 verses; Masoretic 23213 (1961 KJV ve
 - verses 5307 · numbering kjv · books 4
 - omitted/joined in this edition: 2
 - additional: 3: ROM.14.24, ROM.14.25, ROM.14.26
+
+## bible · en-webster — Webster's Bible (1833)
+- verses 31103 · numbering kjv · books 66
+- additional: 1: 3JN.1.15
+
+## bible · en-ylt — Young's Literal Translation (YLT, 1898)
+- verses 31102 · numbering kjv · books 66
 
 ## bible · fr-martin — Martin (1744)
 - verses 31071 · numbering kjv · books 66

@@ -309,6 +309,54 @@
       "license": "© Saheeh International — permission required",
       "source": "github",
       "group": "quran"
+    },
+    {
+      "id": "ylt",
+      "short": "YLT",
+      "kind": "translation",
+      "language": "en",
+      "labels": [
+        "YLT"
+      ],
+      "title": "Young's Literal Translation (YLT, 1898)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "darby",
+      "short": "Darby",
+      "kind": "translation",
+      "language": "en",
+      "labels": [
+        "Darby"
+      ],
+      "title": "Darby Bible (1890)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "webster",
+      "short": "Webster",
+      "kind": "translation",
+      "language": "en",
+      "labels": [
+        "Webster"
+      ],
+      "title": "Webster's Bible (1833)",
+      "license": "Public domain",
+      "source": "github"
+    },
+    {
+      "id": "akjv",
+      "short": "AKJV",
+      "kind": "translation",
+      "language": "en",
+      "labels": [
+        "AKJV"
+      ],
+      "title": "American King James Version (AKJV)",
+      "license": "Public domain",
+      "source": "github"
     }
   ]
 }

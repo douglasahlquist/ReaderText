@@ -1,0 +1,26 @@
+{
+  "app": "BibleReader",
+  "_about": "required: always in the app and its default view; default: in the default view; offered: listed for adding; hidden: never listed, added or searched",
+  "required": [
+    "en-kjv",
+    "zh-cuv-s",
+    "zh-cuv-t"
+  ],
+  "default": [
+    "en-kjv",
+    "zh-cuv-s",
+    "zh-cuv-t",
+    "hbo-wlc",
+    "grc-sblgnt"
+  ],
+  "offered": [
+    "en-web",
+    "en-bbe",
+    "en-asv",
+    "en-ylt",
+    "en-darby",
+    "en-webster",
+    "en-akjv"
+  ],
+  "hidden": []
+}

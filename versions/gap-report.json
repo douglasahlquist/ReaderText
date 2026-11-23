@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20",
+ "generated": "2026-11-22",
  "reference": {
   "bible": 31102,
   "masoretic": 23213,
@@ -13,6 +13,38 @@
    "name": "Luther (1912)",
    "short": "Deutsch (Luther)",
    "language": "de",
+   "license": "Public domain",
+   "numbering": "kjv",
+   "verses": 31102,
+   "books": 66,
+   "partial": {},
+   "missing": [],
+   "omitted": {},
+   "additional": {},
+   "access": null
+  },
+  {
+   "collection": "bible",
+   "key": "en-akjv",
+   "name": "American King James Version (AKJV)",
+   "short": "AKJV",
+   "language": "en",
+   "license": "Public domain",
+   "numbering": "kjv",
+   "verses": 31102,
+   "books": 66,
+   "partial": {},
+   "missing": [],
+   "omitted": {},
+   "additional": {},
+   "access": null
+  },
+  {
+   "collection": "bible",
+   "key": "en-asv",
+   "name": "American Standard Version (ASV, 1901)",
+   "short": "ASV",
+   "language": "en",
    "license": "Public domain",
    "numbering": "kjv",
    "verses": 31102,
@@ -39,6 +71,26 @@
     "JHN.5.4": "Not in this translation (follows the Revised Version text)",
     "ROM.16.24": "Not in this translation (follows the Revised Version text)"
    },
+   "additional": {},
+   "access": null
+  },
+  {
+   "collection": "bible",
+   "key": "en-darby",
+   "name": "Darby Bible (1890)",
+   "short": "Darby",
+   "language": "en",
+   "license": "Public domain",
+   "numbering": "kjv",
+   "verses": 31099,
+   "books": 66,
+   "partial": {},
+   "missing": [
+    "MAT.23.14",
+    "ACT.8.37",
+    "ACT.15.34"
+   ],
+   "omitted": {},
    "additional": {},
    "access": null
   },
@@ -79,6 +131,40 @@
     "ROM.14.25": "Beyond the KJV numbering",
     "ROM.14.26": "Beyond the KJV numbering"
    },
+   "access": null
+  },
+  {
+   "collection": "bible",
+   "key": "en-webster",
+   "name": "Webster's Bible (1833)",
+   "short": "Webster",
+   "language": "en",
+   "license": "Public domain",
+   "numbering": "kjv",
+   "verses": 31103,
+   "books": 66,
+   "partial": {},
+   "missing": [],
+   "omitted": {},
+   "additional": {
+    "3JN.1.15": "The last verse is divided differently (modern numbering)"
+   },
+   "access": null
+  },
+  {
+   "collection": "bible",
+   "key": "en-ylt",
+   "name": "Young's Literal Translation (YLT, 1898)",
+   "short": "YLT",
+   "language": "en",
+   "license": "Public domain",
+   "numbering": "kjv",
+   "verses": 31102,
+   "books": 66,
+   "partial": {},
+   "missing": [],
+   "omitted": {},
+   "additional": {},
    "access": null
   },
   {

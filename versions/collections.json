@@ -1197,6 +1197,41 @@
       "legacyIDs": [
         "pickthall"
       ]
+    },
+    {
+      "collection": "bible",
+      "key": "en-asv",
+      "legacyIDs": [
+        "asv"
+      ]
+    },
+    {
+      "collection": "bible",
+      "key": "en-ylt",
+      "legacyIDs": [
+        "ylt"
+      ]
+    },
+    {
+      "collection": "bible",
+      "key": "en-darby",
+      "legacyIDs": [
+        "darby"
+      ]
+    },
+    {
+      "collection": "bible",
+      "key": "en-webster",
+      "legacyIDs": [
+        "webster"
+      ]
+    },
+    {
+      "collection": "bible",
+      "key": "en-akjv",
+      "legacyIDs": [
+        "akjv"
+      ]
     }
   ]
 }
